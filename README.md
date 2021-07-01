@@ -1,7 +1,7 @@
-### Hi there 👋
+### Here is what i'm working on!  👋
 
-<!--
-**kaustavkarmakar2/kaustavkarmakar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...LinkdIn (www.linkedin.com/in/kaustav-karmakar-6a602212a/)
 - ⚡ Fun fact: ...Your blood vessels could circle the globe.
--->
+
